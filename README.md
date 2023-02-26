@@ -1,0 +1,2 @@
+# ExplicativaFlyweight
+Aula explicativa Flyweight
